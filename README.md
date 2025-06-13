@@ -4,7 +4,7 @@ Thanks for visiting my github page. You can find more about me [here](https://di
 
 Here are some things I am currently doing:
 - 🔭 Building color VR and two-photon microscopes for insects.
-- 🌱 Learning to write more periodically in my [digital garden](https://umwelt.dineshnatesan.com/).
+- 🌱 Learning to write more regularly in my [digital garden](https://umwelt.dineshnatesan.com/).
 - 💡 Thinking about how to increase my positive societal impact.
 - 💬 Talking about open ideas in different fields, especially neuroscience and life sciences.
 - ⚡ Fun fact: I (finally) have a self-hosted corner of the internet for articles and images (shoutout to [immich](https://immich.app/), [syncthing](https://syncthing.net/), [calibre](https://calibre-ebook.com/), [miniflux](https://miniflux.app/) and [readeck](https://readeck.org/en/).
