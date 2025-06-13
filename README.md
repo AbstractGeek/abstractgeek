@@ -7,7 +7,7 @@ Here are some things I am currently doing:
 - 🌱 Learning to write more regularly in my [digital garden](https://umwelt.dineshnatesan.com/).
 - 💡 Thinking about how to increase my positive societal impact.
 - 💬 Talking about open ideas in different fields, especially neuroscience and life sciences.
-- ⚡ Fun fact: I (finally) have a self-hosted corner of the internet for articles and images (shoutout to [immich](https://immich.app/), [syncthing](https://syncthing.net/), [calibre](https://calibre-ebook.com/), [miniflux](https://miniflux.app/) and [readeck](https://readeck.org/en/).
+- ⚡ Fun fact: I (finally) have a self-hosted corner of the internet for articles and images (shoutout to [immich](https://immich.app/), [syncthing](https://syncthing.net/), [calibre](https://calibre-ebook.com/), [miniflux](https://miniflux.app/) and [readeck](https://readeck.org/en/)).
 
 <!--
 **AbstractGeek/abstractgeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
